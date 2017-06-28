@@ -1,2 +1,2 @@
 # hello-world
-once again I am learning
+Once again I am learning. I must refamiliarize with all that has been lost. 
